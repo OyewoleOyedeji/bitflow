@@ -17,21 +17,6 @@ export default {
     link: [
       { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400;1,700&display=swap&display=swap' }
-    ],
-    script: [
-      { src: 'js/web/assets/jquery/jquery.min.js' },
-      { src: 'js/popper/popper.min.js' },
-      { src: 'js/tether/tether.min.js' },
-      { src: 'js/bootstrap/js/bootstrap.min.js' },
-      { src: 'js/smoothscroll/smooth-scroll.js' },
-      { src: 'js/viewportchecker/jquery.viewportchecker.js' },
-      { src: 'js/dropdown/js/nav-dropdown.js' },
-      { src: 'js/dropdown/js/navbar-dropdown.js' },
-      { src: 'js/parallax/jarallax.min.js' },
-      { src: 'js/formstyler/jquery.formstyler.js' },
-      { src: 'js/formstyler/jquery.formstyler.min.js' },
-      { src: 'js/datepicker/jquery.datetimepicker.full.js' },
-      { src: 'js/theme/js/script.js' }
     ]
   },
 
