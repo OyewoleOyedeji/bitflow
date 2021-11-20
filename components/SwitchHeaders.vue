@@ -25,7 +25,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-12 col-md-6 image-wrapper">
-            <img class="w-100" src="~/assets/images/showcase-image1.jpg" alt="Drawing workstation on a yellow table">
+            <img class="w-100" src="~/assets/images/showcase-image1.webp" alt="Drawing workstation on a yellow table">
           </div>
           <div class="col-12 col-md">
             <div class="text-wrapper text-center">
@@ -48,7 +48,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-12 col-md-6 image-wrapper">
-            <img class="w-100" src="~/assets/images/showcase-image2.jpg" alt="Laptop places near a phone, coffee and a flower pot">
+            <img class="w-100" src="~/assets/images/showcase-image2.webp" alt="Laptop places near a phone, coffee and a flower pot">
           </div>
           <div class="col-12 col-md">
             <div class="text-wrapper text-center">

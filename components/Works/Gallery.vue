@@ -13,7 +13,7 @@
         <div class="row mbr-gallery mt-4">
           <div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvFKULd-modal">
-              <img class="w-100" src="~/assets/images/animated-search-box-1076x605.jpg" alt="https://example.com" data-slide-to="0" data-target="#lb-sLlDvFKULd">
+              <img class="w-100" src="~/assets/images/animated-search-box-1076x605.webp" alt="https://example.com" data-slide-to="0" data-target="#lb-sLlDvFKULd">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
@@ -21,7 +21,7 @@
           </div>
           <div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvFKULd-modal">
-              <img class="w-100" src="~/assets/images/fileserver-1076x612.jpg" alt="https://example.com" data-slide-to="1" data-target="#lb-sLlDvFKULd">
+              <img class="w-100" src="~/assets/images/fileserver-1076x612.webp" alt="https://example.com" data-slide-to="1" data-target="#lb-sLlDvFKULd">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
@@ -29,7 +29,7 @@
           </div>
           <div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvFKULd-modal">
-              <img class="w-100" src="~/assets/images/slick-1076x611.jpg" alt="https://example.com" data-slide-to="2" data-target="#lb-sLlDvFKULd">
+              <img class="w-100" src="~/assets/images/slick-1076x611.webp" alt="https://example.com" data-slide-to="2" data-target="#lb-sLlDvFKULd">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
@@ -37,7 +37,7 @@
           </div>
           <div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvFKULd-modal">
-              <img class="w-100" src="~/assets/images/coffee-island-1076x610.jpg" alt="https://example.com" data-slide-to="3" data-target="#lb-sLlDvFKULd">
+              <img class="w-100" src="~/assets/images/coffee-island-1076x610.webp" alt="https://example.com" data-slide-to="3" data-target="#lb-sLlDvFKULd">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
@@ -52,16 +52,16 @@
                 <div id="lb-sLlDvFKULd" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000">
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                      <img class="d-block w-100" src="~/assets/images/animated-search-box-1076x605.jpg" alt="">
+                      <img class="d-block w-100" src="~/assets/images/animated-search-box-1076x605.webp" alt="">
                     </div>
                     <div class="carousel-item">
-                      <img class="d-block w-100" src="~/assets/images/fileserver-1076x612.jpg" alt="">
+                      <img class="d-block w-100" src="~/assets/images/fileserver-1076x612.webp" alt="">
                     </div>
                     <div class="carousel-item">
-                      <img class="d-block w-100" src="~/assets/images/slick-1076x611.jpg" alt="">
+                      <img class="d-block w-100" src="~/assets/images/slick-1076x611.webp" alt="">
                     </div>
                     <div class="carousel-item">
-                      <img class="d-block w-100" src="~/assets/images/coffee-island-1076x610.jpg" alt="">
+                      <img class="d-block w-100" src="~/assets/images/coffee-island-1076x610.webp" alt="">
                     </div>
                   </div>
                   <ol class="carousel-indicators">
@@ -100,7 +100,7 @@
         <div class="row mbr-gallery mt-4">
           <div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvJTbFA-modal">
-              <img class="w-100" src="~/assets/images/showcase-image2.jpg" alt="" data-slide-to="0" data-target="#lb-sLlDvJTbFA">
+              <img class="w-100" src="~/assets/images/showcase-image2.webp" alt="" data-slide-to="0" data-target="#lb-sLlDvJTbFA">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
@@ -108,21 +108,21 @@
           </div>
           <div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvJTbFA-modal">
-              <img class="w-100" src="~/assets/images/works-image-1-900x600.jpg" alt="A computer placed on a brown desk" data-slide-to="1" data-target="#lb-sLlDvJTbFA">
+              <img class="w-100" src="~/assets/images/works-image-1-900x600.webp" alt="A computer placed on a brown desk" data-slide-to="1" data-target="#lb-sLlDvJTbFA">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
             </div>
           </div><div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvJTbFA-modal">
-              <img class="w-100" src="~/assets/images/image7-1920x1279.jpg" alt="Virtual reality simulation of a forest" data-slide-to="2" data-target="#lb-sLlDvJTbFA">
+              <img class="w-100" src="~/assets/images/image7-1920x1279.webp" alt="Virtual reality simulation of a forest" data-slide-to="2" data-target="#lb-sLlDvJTbFA">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
             </div>
           </div><div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvJTbFA-modal">
-              <img class="w-100" src="~/assets/images/image8-1920x1281.jpg" alt="Virtual reality simulation of a complex maze" data-slide-to="3" data-target="#lb-sLlDvJTbFA">
+              <img class="w-100" src="~/assets/images/image8-1920x1281.webp" alt="Virtual reality simulation of a complex maze" data-slide-to="3" data-target="#lb-sLlDvJTbFA">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
@@ -137,14 +137,14 @@
                 <div id="lb-sLlDvJTbFA" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000">
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                      <img class="d-block w-100" src="~/assets/images/showcase-image2.jpg" alt="">
+                      <img class="d-block w-100" src="~/assets/images/showcase-image2.webp" alt="">
                     </div>
                     <div class="carousel-item">
-                      <img class="d-block w-100" src="~/assets/images/works-image-1-900x600.jpg" alt="">
+                      <img class="d-block w-100" src="~/assets/images/works-image-1-900x600.webp" alt="">
                     </div><div class="carousel-item">
-                      <img class="d-block w-100" src="~/assets/images/image7-1920x1279.jpg" alt="">
+                      <img class="d-block w-100" src="~/assets/images/image7-1920x1279.webp" alt="">
                     </div><div class="carousel-item">
-                      <img class="d-block w-100" src="~/assets/images/image8-1920x1281.jpg" alt="">
+                      <img class="d-block w-100" src="~/assets/images/image8-1920x1281.webp" alt="">
                     </div>
                   </div>
                   <ol class="carousel-indicators">

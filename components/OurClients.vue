@@ -14,7 +14,7 @@
           <a href="https://example.com"><img src="~/assets/images/fileserver.png" alt="File Server"></a>
         </div>
         <div class="col-md-3 card">
-          <a href="https://example.com" target="_blank"><img src="~/assets/images/slick.jpg" alt="Slick Computers"></a>
+          <a href="https://example.com" target="_blank"><img src="~/assets/images/slick.webp" alt="Slick Computers"></a>
         </div>
         <div class="col-md-3 card">
           <a href="https://example.com"><img src="~/assets/images/gitcodetree.png" alt="Git Code Tree"></a>

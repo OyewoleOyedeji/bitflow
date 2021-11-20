@@ -13,7 +13,7 @@
         <div class="col-sm-6 col-lg-3">
           <div class="card-wrap">
             <div class="image-wrap">
-              <img src="~/assets/images/team1.jpg" alt="Alex Cownroll's Profile Picture">
+              <img src="~/assets/images/team1.webp" alt="Alex Cownroll's Profile Picture">
             </div>
             <div class="content-wrap">
               <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
@@ -29,7 +29,7 @@
         <div class="col-sm-6 col-lg-3">
           <div class="card-wrap">
             <div class="image-wrap">
-              <img src="~/assets/images/team2.jpg" alt="Sarah Palmer's Profile Picture">
+              <img src="~/assets/images/team2.webp" alt="Sarah Palmer's Profile Picture">
             </div>
             <div class="content-wrap">
               <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
@@ -45,7 +45,7 @@
         <div class="col-sm-6 col-lg-3">
           <div class="card-wrap">
             <div class="image-wrap">
-              <img src="~/assets/images/team3.jpg" alt="Jessica Swift's Profile Picture">
+              <img src="~/assets/images/team3.webp" alt="Jessica Swift's Profile Picture">
             </div>
             <div class="content-wrap">
               <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
@@ -61,7 +61,7 @@
         <div class="col-sm-6 col-lg-3">
           <div class="card-wrap">
             <div class="image-wrap">
-              <img src="~/assets/images/team4.jpg" alt="Angela Doe's Profile Picture">
+              <img src="~/assets/images/team4.webp" alt="Angela Doe's Profile Picture">
             </div>
             <div class="content-wrap">
               <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">

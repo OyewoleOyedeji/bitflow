@@ -4,7 +4,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-7 col-12">
           <div class="image-wrapper">
-            <img class="w-100" src="~/assets/images/contact-image.jpg" alt="Woman with laptop attending to two women sitting">
+            <img class="w-100" src="~/assets/images/contact-image.webp" alt="Woman with laptop attending to two women sitting">
           </div>
         </div>
         <div class="col-lg-3 offset-lg-1 mbr-form">
