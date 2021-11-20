@@ -1,7 +1,7 @@
 <template>
   <main>
     <!-- This is the global `Navbar` component -->
-    <Global-Navbar />
+    <Navbar />
 
     <!-- This is the local `SwitchHeaders` component -->
     <SwitchHeaders />
@@ -19,7 +19,7 @@
     <ContactForm />
 
     <!-- This is the global `Footer` component -->
-    <Global-Footer />
+    <Footer />
 
     <!-- Toggles the site animation -->
     <input name="animation" type="hidden">

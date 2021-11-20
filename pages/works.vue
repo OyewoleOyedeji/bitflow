@@ -1,16 +1,16 @@
 <template>
   <main>
     <!-- This is the global `Navbar` component -->
-    <Global-Navbar />
+    <Navbar />
 
     <!-- This is the local `Header` component -->
-    <Works-Header />
+    <works-header />
 
     <!-- This is the local `Gallery` component -->
-    <Works-Gallery />
+    <works-gallery />
 
     <!-- This is the `Footer` component -->
-    <Global-Footer />
+    <Footer />
 
     <!-- Toggles the site animation -->
     <input name="animation" type="hidden">
