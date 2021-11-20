@@ -21,7 +21,6 @@ export default {
   },
 
   css: [
-    '@/assets/css/fontawesome.min.css',
     '@/assets/font-awesome-brands/css/brands.min.css',
     '@/assets/themify/css/themify-icons.css',
     '@/assets/tether/tether.min.css',
@@ -32,7 +31,6 @@ export default {
     '@/assets/dropdown/css/style.css',
     '@/assets/formstyler/jquery.formstyler.css',
     '@/assets/formstyler/jquery.formstyler.theme.css',
-    '@/assets/datepicker/jquery.datetimepicker.min.css',
     '@/assets/socicon/css/styles.css',
     '@/assets/theme/css/style.css',
     '@/assets/mobirise/css/mbr-additional.css',

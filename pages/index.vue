@@ -37,7 +37,6 @@
     <script src="js/parallax/jarallax.min.js" />
     <script src="js/formstyler/jquery.formstyler.js" />
     <script src="js/formstyler/jquery.formstyler.min.js" />
-    <script src="js/datepicker/jquery.datetimepicker.full.js" />
     <script src="js/theme/js/script.js" />
   </main>
 </template>
