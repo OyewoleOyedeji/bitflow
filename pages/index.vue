@@ -25,7 +25,7 @@
     <input name="animation" type="hidden">
 
     <!-- Javascript assets -->
-    <script src="js/web/assets/jquery/jquery.min.js" />
+    <!-- <script src="js/web/assets/jquery/jquery.min.js" /> -->
     <script src="js/popper/popper.min.js" />
     <script src="js/tether/tether.min.js" />
     <script src="js/bootstrap/js/bootstrap.min.js" />

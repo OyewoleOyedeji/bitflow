@@ -1,3 +1,5 @@
+import webpack from 'webpack'
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -21,6 +23,7 @@ export default {
   },
 
   css: [
+    '@/assets/css/fontawesome.min.css',
     '@/assets/font-awesome-brands/css/brands.min.css',
     '@/assets/themify/css/themify-icons.css',
     '@/assets/tether/tether.min.css',
@@ -44,7 +47,8 @@ export default {
   components: true,
 
   buildModules: [
-    '@nuxtjs/eslint-module'
+    '@nuxtjs/eslint-module',
+    // 'nuxt-purgecss'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -52,6 +56,18 @@ export default {
   ],
 
   build: {
-    extractCSS: true
+    extractCSS: true,
+  },
+
+  buildPlugins: [
+    new webpack.ProvidePlugin({
+      $: 'jquery',
+      jQuery: 'jquery',
+      'window.jQuery': 'jquery'
+    })
+  ],
+
+  server: {
+    host: '0.0.0.0'
   }
 }
