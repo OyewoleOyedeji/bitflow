@@ -1,5 +1,3 @@
-import webpack from 'webpack'
-
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -19,6 +17,9 @@ export default {
     link: [
       { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400;1,700&display=swap&display=swap' }
+    ],
+    script: [
+      { src: 'https://code.jquery.com/jquery-3.5.1.min.js' }
     ]
   },
 
@@ -41,8 +42,7 @@ export default {
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [
-  ],
+  plugins: [],
 
   components: true,
 
@@ -57,13 +57,18 @@ export default {
 
   build: {
     extractCSS: true,
-    plugins: [
-      new webpack.ProvidePlugin({
-        $: 'jquery',
-        jQuery: 'jquery',
-        'window.jQuery': 'jquery'
-      })
-    ]
+
+    'html.minify': {
+      collapseBooleanAttributes: true,
+      decodeEntities: true,
+      minifyCSS: true,
+      minifyJS: true,
+      processConditionalComments: true,
+      removeEmptyAttributes: true,
+      removeRedundantAttributes: true,
+      trimCustomFragments: true,
+      useShortDoctype: true
+    }
   },
 
   server: {

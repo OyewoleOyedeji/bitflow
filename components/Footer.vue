@@ -13,15 +13,11 @@
         </div>
         <div class="col-10 col-6">
           <p class="mbr-text align-right links mbr-fonts-style display-7">
-            <nuxt-link to="/#switch-header-1">
-              <a class="text-black">Mission</a> &nbsp;&nbsp;&nbsp;&nbsp;
-            </nuxt-link>
+            <a class="text-black" href="/#switch-header-1">Mission</a> &nbsp;&nbsp;&nbsp;&nbsp;
             <nuxt-link to="/works">
               <a class="text-black">Works</a> &nbsp;&nbsp;&nbsp;&nbsp;
             </nuxt-link>
-            <nuxt-link to="/#our-team">
-              <a class="text-black">Team</a>
-            </nuxt-link>
+            <a class="text-black" href="/#our-team">Team</a>
           </p>
         </div>
       </div>

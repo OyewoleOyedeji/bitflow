@@ -8,7 +8,9 @@
           </h3>
 
           <div class="mbr-section-btn">
-            <a class="btn btn-black display-4" href="/works"><span class="ti-fullscreen mbr-iconfont mbr-iconfont-btn" />View works</a> <a class="btn btn-black display-4" href="#our-team"><span class="ti-mouse mbr-iconfont mbr-iconfont-btn" />Keep moving</a>
+            <nuxt-link to="/works">
+              <a class="btn btn-black display-4"><span class="ti-fullscreen mbr-iconfont mbr-iconfont-btn" />View works</a>
+            </nuxt-link><a class="btn btn-black display-4" href="#our-team"><span class="ti-mouse mbr-iconfont mbr-iconfont-btn" />Keep moving</a>
           </div>
         </div>
       </div>
