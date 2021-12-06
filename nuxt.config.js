@@ -56,19 +56,7 @@ export default {
   ],
 
   build: {
-    extractCSS: true,
-
-    'html.minify': {
-      collapseBooleanAttributes: true,
-      decodeEntities: true,
-      minifyCSS: true,
-      minifyJS: true,
-      processConditionalComments: true,
-      removeEmptyAttributes: true,
-      removeRedundantAttributes: true,
-      trimCustomFragments: true,
-      useShortDoctype: true
-    }
+    extractCSS: true
   },
 
   server: {
