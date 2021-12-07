@@ -1,8 +1,7 @@
 export default {
-  // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
-  // Global page headers: https://go.nuxtjs.dev/config-head
+  // Global page headers
   head: {
     title: 'Bitflow',
     htmlAttrs: {
@@ -41,17 +40,10 @@ export default {
     '@/assets/web/assets/mobirise-icons2/mobirise2.css'
   ],
 
-  // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [],
-
   components: true,
 
   buildModules: [
     '@nuxtjs/eslint-module'
-  ],
-
-  // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [
   ],
 
   build: {

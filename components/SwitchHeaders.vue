@@ -56,7 +56,7 @@
                 <strong>Defeat project bugs</strong>
               </h1>
               <p class="mbr-text mbr-fonts-style display-7">
-                Tired of having to spend sleepless nights trying to fix a bug which stops your purchase button from deducting amounts from your customers bank account twice. We will battle with the project till the bug decides to leave.&nbsp;
+                Tired of having sleepless nights trying to fix a bug that stops your purchase button from deducting amounts from your customers' bank account twice. We will battle with the project till the bug decides to leave.
               </p>
               <div class="mbr-section-btn mt-3">
                 <a class="btn btn-black display-7" href="#switch-header-3"><span class="ti-light-bulb mbr-iconfont mbr-iconfont-btn" />Another idea</a>
@@ -78,7 +78,7 @@
                   <strong>Urgggh, deployment</strong>
                 </h1>
                 <p class="mbr-text mbr-fonts-style display-7">
-                  We have all been there where you have to deployed your super awesome project to the internet. But what if you don't have the patience for the trial and error such process takes (like your working under a tight schedule with your client). Then we will help with the deployment and maintenance of the project at your demand. You can sit back and drink coffee while we do the debugging and heavy lifting!
+                  We have all been there where you have to deploy your amazing project to the internet. But what if you don't have the patience for the trial and error such process takes (like your working under a tight schedule with your client). Then we will help with the deployment and maintenance of the project at your demand. You can sit back and drink coffee while we do the debugging and heavy lifting!
                 </p>
                 <div class="mbr-section-btn mt-3">
                   <a class="btn btn-black display-4" href="#page-transition"><span class="ti-mouse mbr-iconfont mbr-iconfont-btn" />Keep moving</a>
