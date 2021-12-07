@@ -30,7 +30,7 @@
         <div class="media-container-row">
           <div class="col-md-6 copyright">
             <p class="mbr-text mbr-fonts-style display-7">
-              © Copyright {{ currentYear }} {{ templateAuthor }} - All Rights Reserved. Made using Mobirise
+              © Copyright {{ currentYear }} {{ templateAuthor }} - All Rights Reserved
             </p>
           </div>
           <div class="col-md-6">
