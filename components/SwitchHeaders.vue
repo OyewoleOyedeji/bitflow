@@ -78,7 +78,7 @@
                   <strong>Urgggh, deployment</strong>
                 </h1>
                 <p class="mbr-text mbr-fonts-style display-7">
-                  We have all been there where you have to deploy your amazing project to the internet. But what if you don't have the patience for the trial and error such process takes (like your working under a tight schedule with your client). Then we will help with the deployment and maintenance of the project at your demand. You can sit back and drink coffee while we do the debugging and heavy lifting!
+                  We have all been there where you have to deploy your amazing project to the internet. But what if you don't have the patience for the trial and error such process takes, (like you're working under a tight schedule with your client). Then we will help with the deployment and maintenance of the project at your demand. You can sit back and drink coffee, while we do the debugging and heavy lifting!
                 </p>
                 <div class="mbr-section-btn mt-3">
                   <a class="btn btn-black display-4" href="#page-transition"><span class="ti-mouse mbr-iconfont mbr-iconfont-btn" />Keep moving</a>
