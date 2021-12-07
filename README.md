@@ -2,19 +2,25 @@
 
 Bootstrap 4 design for a online tech startup company
 
-## Build Setup
+## Setting up
 
 ```bash
 # Install dependencies
 $ npm install
 
-# Start development server at localhost:3000
+# Start development server at 0.0.0.0:3000
 $ npm run dev
-
-# Start production and run the server
-$ npm run build
-$ npm run start
-
-# Generate the static project
-$ npm run generate
 ```
+
+## Running production build
+
+```bash
+# Build the project, generate the assets and start production server
+$ npm run build
+$ npm run generate
+
+# It listens on 0.0.0.0:3000
+$ npm run start
+```
+
+[![Powered by Vercel](https://raw.githubusercontent.com/abumalick/powered-by-vercel/master/powered-by-vercel.svg)](https://vercel.com?utm_source=powered-by-vercel)
