@@ -47,8 +47,7 @@ export default {
   components: true,
 
   buildModules: [
-    '@nuxtjs/eslint-module',
-    // 'nuxt-purgecss'
+    '@nuxtjs/eslint-module'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
