@@ -5,23 +5,23 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "build:vercel": "nuxt generate",
     "start": "nuxt start",
     "generate": "nuxt generate",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
     "lint": "npm run lint:js"
   },
   "dependencies": {
-    "core-js": "^3.15.1",
-    "nuxt": "^2.15.7"
+    "core-js": "^3.19.3",
+    "nuxt": "^2.15.7",
+    "nuxt-purgecss": "^1.0.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
     "@nuxtjs/eslint-config": "^6.0.1",
     "@nuxtjs/eslint-module": "^3.0.2",
-    "@types/node": "^16.11.9",
+    "@types/node": "^16.11.12",
     "eslint": "^7.29.0",
-    "eslint-plugin-nuxt": "^2.0.0",
-    "eslint-plugin-vue": "^7.12.1"
+    "eslint-plugin-nuxt": "^3.1.0",
+    "eslint-plugin-vue": "^8.2.0"
   }
 }
