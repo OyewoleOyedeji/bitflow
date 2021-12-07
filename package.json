@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
+    "build:vercel": "nuxt generate",
     "start": "nuxt start",
     "generate": "nuxt generate",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
@@ -12,8 +13,7 @@
   },
   "dependencies": {
     "core-js": "^3.19.3",
-    "nuxt": "^2.15.7",
-    "nuxt-purgecss": "^1.0.0"
+    "nuxt": "^2.15.7"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
