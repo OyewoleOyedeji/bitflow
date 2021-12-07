@@ -22,6 +22,6 @@
     "@types/node": "^16.11.9",
     "eslint": "^7.29.0",
     "eslint-plugin-nuxt": "^3.1.0",
-    "eslint-plugin-vue": "^7.12.1"
+    "eslint-plugin-vue": "^8.2.0"
   }
 }
