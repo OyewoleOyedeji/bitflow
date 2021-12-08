@@ -23,4 +23,22 @@ $ npm run generate
 $ npm run start
 ```
 
+## Other Scripts
+
+```bash
+# Minify and optimize the css assets found in raw/css/
+$ npm run optimize:css
+
+# Lint javascript files not in .gitignore using eslint
+$ npm run lint
+$ npm run lint:js
+
+# Custom command for Vercel deployment
+$ npm run build:vercel
+```
+
+## Deployment
+
+It is done automatically when changes are pushed/merged to `main` branch
+
 [![Powered by Vercel](https://raw.githubusercontent.com/abumalick/powered-by-vercel/master/powered-by-vercel.svg)](https://vercel.com?utm_source=powered-by-vercel)
