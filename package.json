@@ -13,6 +13,7 @@
     "lint": "npm run lint:js"
   },
   "dependencies": {
+    "@nuxtjs/robots": "^2.5.0",
     "core-js": "^3.19.3",
     "dotenv": "^10.0.0",
     "nuxt": "^2.15.7",
