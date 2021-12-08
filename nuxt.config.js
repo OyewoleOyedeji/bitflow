@@ -1,3 +1,6 @@
+import dotenv from 'dotenv'
+dotenv.config()
+
 export default {
   target: 'static',
 
@@ -12,7 +15,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Impossibility is just an understatement' },
       { name: 'format-detection', content: 'telephone=no' },
-      { name: 'google-site-verification', content: 'fjr7i5yoimV2q5DXgKUdH3zfMqTg_89_kF2W6H6_cv8' },
+      { name: 'google-site-verification', content: process.env.GOOGLE_SITE_VERIFICATION_TOKEN || 'undefined' },
       { property: 'og:type', content: 'website' },
       { property: 'og:url', content: 'https://bitflow.vercel.app/' },
       { property: 'og:title', content: 'Bitflow' },
@@ -64,6 +67,15 @@ export default {
   ],
 
   components: true,
+
+  modules: [
+    '@nuxtjs/robots'
+  ],
+
+  robots: {
+    UserAgent: '*',
+    Disallow: '/js',
+  },
 
   buildModules: [
     '@nuxtjs/eslint-module'
