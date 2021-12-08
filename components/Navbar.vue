@@ -41,7 +41,7 @@
             </li>
           </ul>
           <div class="icons-menu">
-            <a class="iconfont-wrapper" href="https://github.com" target="_blank" title="Save this template !">
+            <a class="iconfont-wrapper" href="https://github.com/OyewoleOyedeji/bitflow.git" target="_blank" title="Clone this template's repository!">
               <span class="p-2 mbr-iconfont ti-import" />
             </a>
             <a class="iconfont-wrapper" href="#" title="Toggle dark mode">

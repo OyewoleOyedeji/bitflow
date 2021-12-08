@@ -11,13 +11,13 @@
       </div>
       <div class="row justify-content-center mt-4">
         <div class="col-md-3 card">
-          <a href="https://example.com"><img src="~/assets/images/fileserver.png" alt="File Server"></a>
+          <a href="https://somevercel.link.app"><img src="~/assets/images/fileserver.png" alt="File Server"></a>
         </div>
         <div class="col-md-3 card">
-          <a href="https://example.com" target="_blank"><img src="~/assets/images/slick.webp" alt="Slick Computers"></a>
+          <a href="https://somevercel.link.app" target="_blank"><img src="~/assets/images/slick.webp" alt="Slick Technologies"></a>
         </div>
         <div class="col-md-3 card">
-          <a href="https://example.com"><img src="~/assets/images/gitcodetree.png" alt="Git Code Tree"></a>
+          <a href="https://somevercel.link.app"><img src="~/assets/images/gitcodetree.png" alt="Git Code Tree"></a>
         </div>
       </div>
     </div>

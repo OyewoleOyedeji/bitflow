@@ -4,11 +4,9 @@
       <div class="media-container-row">
         <div class="col-md-2 col-6">
           <div class="media-wrap">
-            <nuxt-link to="/">
-              <a>
-                <img src="~/assets/images/bitflow.png" alt="Template logo">
-              </a>
-            </nuxt-link>
+            <a href="/">
+              <img src="~/assets/images/bitflow.png" alt="Bitflow">
+            </a>
           </div>
         </div>
         <div class="col-10 col-6">
@@ -30,13 +28,13 @@
         <div class="media-container-row">
           <div class="col-md-6 copyright">
             <p class="mbr-text mbr-fonts-style display-7">
-              © Copyright {{ currentYear }} {{ templateAuthor }} - All Rights Reserved
+              © Copyright {{ currentYear }} {{ templateAuthor }} - All Rights Reserved.
             </p>
           </div>
           <div class="col-md-6">
             <div class="social-list align-right">
               <div class="soc-item">
-                <a href="https://github.com/Website-Mania/bitflow" title="Download this template!">
+                <a :href="repositoryURL" title="Clone this template's repository!">
                   <span class="mbr-iconfont mbr-iconfont-social ti-import" />
                 </a>
               </div>
@@ -46,7 +44,7 @@
                 </a>
               </div>
               <div class="soc-item">
-                <a href="https://dev.to" target="_blank" title="Visit the author's blog!">
+                <a href="#" target="_blank" title="Visit the my blog!">
                   <span class="mbr-iconfont mbr-iconfont-social fab fa-fw fa-dev" />
                 </a>
               </div>
@@ -63,7 +61,8 @@ export default {
   data () {
     return {
       currentYear: new Date().getFullYear(),
-      templateAuthor: 'Oyewole Oyedeji'
+      templateAuthor: 'Oyewole Oyedeji',
+      repositoryURL: 'https://github.com/OyewoleOyedeji/bitflow.git'
     }
   }
 }

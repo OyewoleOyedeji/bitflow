@@ -18,12 +18,12 @@
             <div class="dragArea row">
               <div class="col-lg-12 col-md-12 col-sm-12">
                 <h1 class="mbr-section-title mb-4 display-2">
-                  <strong>Contact Us</strong>
+                  <strong>Give your opinion</strong>
                 </h1>
               </div>
               <div class="col-lg-12 col-md-12 col-sm-12">
                 <p class="mbr-text mbr-fonts-style mb-4 display-7">
-                  and we will be happy to help with that you awesome project of yours!
+                  this contact form doesn't work and just illustrates one
                 </p>
               </div>
               <div data-for="name" class="col-lg-12 col-md col-sm-12 form-group">

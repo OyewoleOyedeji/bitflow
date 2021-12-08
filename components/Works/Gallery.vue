@@ -13,7 +13,7 @@
         <div class="row mbr-gallery mt-4">
           <div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvFKULd-modal">
-              <img class="w-100" src="~/assets/images/animated-search-box-1076x605.webp" alt="https://example.com" data-slide-to="0" data-target="#lb-sLlDvFKULd">
+              <img class="w-100" src="~/assets/images/animated-search-box-1076x605.webp" alt="#" data-slide-to="0" data-target="#lb-sLlDvFKULd">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
@@ -21,7 +21,7 @@
           </div>
           <div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvFKULd-modal">
-              <img class="w-100" src="~/assets/images/fileserver-1076x612.webp" alt="https://example.com" data-slide-to="1" data-target="#lb-sLlDvFKULd">
+              <img class="w-100" src="~/assets/images/fileserver-1076x612.webp" alt="#" data-slide-to="1" data-target="#lb-sLlDvFKULd">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
@@ -29,7 +29,7 @@
           </div>
           <div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvFKULd-modal">
-              <img class="w-100" src="~/assets/images/slick-1076x611.webp" alt="https://example.com" data-slide-to="2" data-target="#lb-sLlDvFKULd">
+              <img class="w-100" src="~/assets/images/slick-1076x611.webp" alt="#" data-slide-to="2" data-target="#lb-sLlDvFKULd">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
@@ -37,7 +37,7 @@
           </div>
           <div class="col-12 col-md-6 col-lg-6 item gallery-image">
             <div class="item-wrapper" data-toggle="modal" data-target="#sLlDvFKULd-modal">
-              <img class="w-100" src="~/assets/images/coffee-island-1076x610.webp" alt="https://example.com" data-slide-to="3" data-target="#lb-sLlDvFKULd">
+              <img class="w-100" src="~/assets/images/coffee-island-1076x610.webp" alt="#" data-slide-to="3" data-target="#lb-sLlDvFKULd">
               <div class="icon-wrapper">
                 <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn" />
               </div>
