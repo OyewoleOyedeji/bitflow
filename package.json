@@ -6,6 +6,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "build:vercel": "nuxt generate",
+    "optimize:css": "css-minify --dir ./raw/css/ --output ./optimized/css/",
     "start": "nuxt start",
     "generate": "nuxt generate",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
@@ -20,6 +21,7 @@
     "@nuxtjs/eslint-config": "^6.0.1",
     "@nuxtjs/eslint-module": "^3.0.2",
     "@types/node": "^16.11.12",
+    "css-minify": "^2.0.0",
     "eslint": "^7.29.0",
     "eslint-plugin-nuxt": "^3.1.0",
     "eslint-plugin-vue": "^8.2.0"

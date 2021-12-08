@@ -91,3 +91,9 @@ sw.*
 
 # Javascript config (VSCode)
 jsconfig.json
+
+# Optimized assets
+optimized
+
+# Raw assets
+raw
