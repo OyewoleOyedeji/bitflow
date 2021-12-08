@@ -15,7 +15,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Impossibility is just an understatement' },
       { name: 'format-detection', content: 'telephone=no' },
-      { name: 'google-site-verification', content: process.env.GOOGLE_SITE_VERIFICATION_TOKEN || 'undefined' },
+      { name: 'google-site-verification', content: process.env.GOOGLE_SITE_VERIFICATION_TOKEN },
       { property: 'og:type', content: 'website' },
       { property: 'og:url', content: 'https://bitflow.vercel.app/' },
       { property: 'og:title', content: 'Bitflow' },
