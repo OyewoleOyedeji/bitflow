@@ -10,8 +10,18 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Bootstrap 4 design for a online tech startup company' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { hid: 'description', name: 'description', content: 'Impossibility is just an understatement' },
+      { name: 'format-detection', content: 'telephone=no' },
+      { property: 'og:type', content: 'website' },
+      { property: 'og:url', content: 'https://bitflow.vercel.app/' },
+      { property: 'og:title', content: 'Bitflow' },
+      { property: 'og:description', content: 'Impossibility is just an understatement' },
+      { property: 'og:image', content: '/seo-preview.webp' },
+      { property: 'twitter:card', content: 'summary_large_image' },
+      { property: 'twitter:url', content: 'https://bitflow.vercel.app' },
+      { property: 'twitter:title', content: 'Bitflow' },
+      { property: 'twitter:description', content: 'Impossibility is just an understatement' },
+      { property: 'twitter:image', content: '/seo-preview.webp' }
     ],
     link: [
       { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico' },
