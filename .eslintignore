@@ -1,0 +1,6 @@
+# Ignore pages/
+pages/*.vue
+
+# Ignore the following files
+components/Footer.vue
+components/Navbar.vue
