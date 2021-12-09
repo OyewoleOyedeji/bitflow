@@ -4,10 +4,10 @@
     <Navbar />
 
     <!-- This is the local `Header` component -->
-    <WorksHeader />
+    <WorksIntroHeader />
 
     <!-- This is the local `Gallery` component -->
-    <WorksGallery />
+    <WorksLargeGallery />
 
     <!-- This is the `Footer` component -->
     <Footer />

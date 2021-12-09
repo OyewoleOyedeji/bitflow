@@ -28,7 +28,7 @@
         <div class="media-container-row">
           <div class="col-md-6 copyright">
             <p class="mbr-text mbr-fonts-style display-7">
-              © Copyright {{ currentYear }} {{ templateAuthor }} - All Rights Reserved.
+              © Copyright {{ currentYear }} {{ templateAuthor }} - All Rights Reserved. Proudly made in Nigeria
             </p>
           </div>
           <div class="col-md-6">
