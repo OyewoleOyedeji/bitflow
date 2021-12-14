@@ -21,12 +21,12 @@
     "nuxt-mail": "^3.0.12"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.14.7",
-    "@nuxtjs/eslint-config": "^6.0.1",
+    "@babel/eslint-parser": "^7.16.5",
+    "@nuxtjs/eslint-config": "^8.0.0",
     "@nuxtjs/eslint-module": "^3.0.2",
     "@types/node": "^16.11.12",
     "css-minify": "^2.0.0",
-    "eslint": "^7.29.0",
+    "eslint": "^8.4.1",
     "eslint-plugin-nuxt": "^3.1.0",
     "eslint-plugin-vue": "^8.2.0"
   }
