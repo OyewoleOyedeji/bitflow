@@ -1,0 +1,9 @@
+pull_request_rules:
+  - name: automatic merge for main when reviewed and CI passes
+    conditions:
+      - check-success=Vercel
+      - base=main
+      - label=dependencies
+    actions:
+      merge:
+        method: merge
