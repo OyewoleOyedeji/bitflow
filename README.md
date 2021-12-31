@@ -1,5 +1,7 @@
 # Bitflow
 
+[![CodeQL](https://github.com/OyewoleOyedeji/bitflow/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/OyewoleOyedeji/bitflow/actions/workflows/codeql-analysis.yml)
+
 Bootstrap 4 design for a online tech startup company
 
 ## Setting up
