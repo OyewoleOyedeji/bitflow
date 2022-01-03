@@ -25,7 +25,7 @@
     "@babel/eslint-parser": "^7.16.5",
     "@nuxtjs/eslint-config": "^8.0.0",
     "@nuxtjs/eslint-module": "^3.0.2",
-    "@types/node": "^17.0.5",
+    "@types/node": "^17.0.6",
     "css-minify": "^2.0.0",
     "eslint": "^8.5.0",
     "eslint-plugin-nuxt": "^3.1.0",
