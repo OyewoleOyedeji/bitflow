@@ -91,3 +91,9 @@ jsconfig.json
 
 # Optimized assets
 optimized
+
+# backend/ environment variables
+backend/.env
+
+# backend/ private key and certificate for SSL
+backend/*.pem
