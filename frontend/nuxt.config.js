@@ -2,6 +2,7 @@ import dotenv from 'dotenv'
 dotenv.config()
 
 export default {
+  ssr: false,
   target: 'static',
 
   // Global page headers
@@ -74,7 +75,7 @@ export default {
 
   robots: {
     UserAgent: '*',
-    Disallow: '/js',
+    Disallow: '/js'
   },
 
   buildModules: [

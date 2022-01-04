@@ -17,9 +17,7 @@
     "@nuxtjs/robots": "^2.5.0",
     "core-js": "^3.20.2",
     "dotenv": "^10.0.0",
-    "nodemailer": "^6.7.2",
-    "nuxt": "^2.15.7",
-    "nuxt-mail": "^3.0.15"
+    "nuxt": "^2.15.7"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.5",
