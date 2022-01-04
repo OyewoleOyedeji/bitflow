@@ -1,0 +1,28 @@
+{
+  "name": "send-email-backend-express",
+  "version": "1.0.0",
+  "description": "Can be re-used to send emails to different clients, just edit the secrets 😉",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js localhost 8080"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^10.0.0",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1",
+    "nodemailer": "^6.7.2",
+    "object-hash": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "keywords": [
+    "javascript",
+    "express",
+    "yarn",
+    "api"
+  ]
+}
