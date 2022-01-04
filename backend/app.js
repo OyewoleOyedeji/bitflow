@@ -22,7 +22,7 @@ app.use(cookieParser());
 app.use("/", indexRouter);
 app.use("/api", apiRouter);
 
-if (process.env.NODE_ENV === 'development') {
+if (process.env.NODE_ENV === 'development' || process.env.NODE_ENV === 'production') {
   var listener = app.listen(process.env.PORT || 8080, function () {
     console.log("Listening on port " + process.env.PORT || 8080);
   });
