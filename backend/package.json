@@ -1,11 +1,11 @@
 {
-  "name": "send-email-backend-express",
+  "name": "email-sender-bitflow",
   "version": "1.0.0",
-  "description": "Can be re-used to send emails to different clients, just edit the secrets 😉",
+  "description": "Email sending backend structure for Bitflow",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js localhost",
-    "dev:https": "nodemon app.js localhost"
+    "test": "testing nodemon app.js localhost"
   },
   "dependencies": {
     "axios": "^0.24.0",
@@ -19,16 +19,15 @@
     "object-hash": "^2.2.0"
   },
   "devDependencies": {
+    "@types/express": "^4.17.13",
     "@types/node": "^17.0.7",
     "nodemon": "^2.0.15"
   },
-  "engines": {
-    "node": "14.x"
-  },
   "keywords": [
+    "nodejs",
     "javascript",
+    "npm",
     "express",
-    "yarn",
     "api"
   ]
 }
