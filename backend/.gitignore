@@ -1,5 +1,8 @@
-# environment files
+# Project dependencies
+/node_modules
+
+# Environment file
 .env
 
-# private keys and certificates for SSL
+# SSL private key and certificate
 *.pem
